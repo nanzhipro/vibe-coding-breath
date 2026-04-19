@@ -15,3 +15,9 @@ A minimal prompt-driven repo for generating `VibeCodingBreath`, a macOS menu-bar
 ```bash
 claude --dangerously-skip-permissions -p "$(cat PROMPT.md)"
 ```
+
+## Link
+
+本仓库运行后，一步生成可运行 macOS App。
+
+[nanzhipro/VibeCodingBreath](https://github.com/nanzhipro/VibeCodingBreath)
