@@ -18,6 +18,6 @@ claude --dangerously-skip-permissions -p "$(cat PROMPT.md)"
 
 ## Link
 
-本仓库运行后，一步生成可运行 macOS App。
+Run this repository to generate a runnable macOS app in one step.
 
 [nanzhipro/VibeCodingBreath](https://github.com/nanzhipro/VibeCodingBreath)
