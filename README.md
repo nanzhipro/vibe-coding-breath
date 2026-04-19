@@ -2,6 +2,10 @@
 
 A minimal prompt-driven repo for generating `VibeCodingBreath`, a macOS menu-bar breathing companion app.
 
+<p align="center">
+  <img src="cover.png" alt="Vibe Coding Breath cover" width="960">
+</p>
+
 ## Files
 
 - `PROMPT.md`: the one-shot app spec
